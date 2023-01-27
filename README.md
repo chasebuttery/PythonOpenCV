@@ -1,0 +1,1 @@
+This folder houses Python OpenCV scripts to run object recognition on a raspberry pi picam.  This has examples of Computer Vision and Machine Learning.  The goal of running this on the pi is to eventually make it the brains of a robot.  
